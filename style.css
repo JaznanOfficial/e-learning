@@ -1,0 +1,15 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+header{
+    background-image: linear-gradient(to right,#A517BA,#601883);
+    /* height: 500px; */
+}
+/* .nav-padding{
+    padding: 0 200px 0 200px;
+} */
+.nav-font-color{
+    color: #83179F;
+    text-decoration: none;
+}
+
