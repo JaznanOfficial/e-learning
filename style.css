@@ -1,27 +1,38 @@
-body{
-    font-family: 'Ubuntu', sans-serif;
+body {
+    font-family: "Ubuntu", sans-serif;
 }
-header{
-    background-image: linear-gradient(to right,#A517BA,#601883);
+header {
+    background-image: linear-gradient(to right, #a517ba, #601883);
     /* height: 500px; */
 }
 /* .nav-padding{
     padding: 0 200px 0 200px;
 } */
-.nav-font-color{
-    color: #83179F;
+.nav-font-color {
+    color: #83179f;
     text-decoration: none;
 }
 
-.choose-us,footer{
-    background-image: linear-gradient(to right,#A517BA,#601883);
+.choose-us,
+footer {
+    background-image: linear-gradient(to right, #a517ba, #601883);
 }
 
-.social-icon a img{
+.social-icon a img {
     transition: 0.4s;
 }
 
-.social-icon a img:hover{
-    transform: translateY(-10px)
+.social-icon a img:hover {
+    transform: translateY(-10px);
 }
 
+.hr-color {
+    border-top: 5px solid #a517ba;
+    opacity: 1;
+
+    /* background-color: tomato; */
+}
+
+.courses{
+    color: #a517ba;
+}
