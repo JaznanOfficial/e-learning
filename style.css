@@ -13,7 +13,15 @@ header{
     text-decoration: none;
 }
 
-.choose-us{
+.choose-us,footer{
     background-image: linear-gradient(to right,#A517BA,#601883);
+}
+
+.social-icon a img{
+    transition: 0.4s;
+}
+
+.social-icon a img:hover{
+    transform: translateY(-10px)
 }
 
